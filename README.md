@@ -6,3 +6,9 @@ A roguelike card game built with Python where you navigate rooms of cards, battl
 
 ```bash
 python main.py
+
+## Additional Features in development
+
+Scoring
+Leaderboard
+Modifiers
